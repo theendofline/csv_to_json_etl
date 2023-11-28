@@ -31,6 +31,4 @@ Welcome contributions to enhance the application, whether it's improving existin
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-Acknowledge any individuals, resources, or third-party libraries that were instrumental in the development of this application.
 
